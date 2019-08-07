@@ -1,0 +1,6 @@
+C:\Users\rafa_\source\repos\EjGPM\EjGPM\bin\Release\EjGPM.exe.config
+C:\Users\rafa_\source\repos\EjGPM\EjGPM\bin\Release\EjGPM.exe
+C:\Users\rafa_\source\repos\EjGPM\EjGPM\bin\Release\EjGPM.pdb
+C:\Users\rafa_\source\repos\EjGPM\EjGPM\obj\Release\EjGPM.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\source\repos\EjGPM\EjGPM\obj\Release\EjGPM.exe
+C:\Users\rafa_\source\repos\EjGPM\EjGPM\obj\Release\EjGPM.pdb
